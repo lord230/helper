@@ -91,4 +91,3 @@ vgg_exp/
   2. Run the Helper Script
   python setup_helper.py
 
-```bash
