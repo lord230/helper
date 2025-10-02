@@ -85,8 +85,8 @@ vgg_exp/
 
 ### Clone Repository
 ```bash
-  git clone <your-repo-url>
-  cd <your-repo>
+  git clone https://github.com/lord230/helper.git
+  cd helper
   
   2. Run the Helper Script
   python setup_helper.py
