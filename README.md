@@ -1,4 +1,4 @@
-# Project Setup Helper 🚀
+# Project Setup Helper 
 
 This repository contains a **Python helper script** that automatically:
 
